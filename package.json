@@ -1,0 +1,15 @@
+{
+  "name": "baba",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "license": "ISC",
+  "author": "Alvaro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
